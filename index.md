@@ -1,7 +1,7 @@
 ## R Style Guide
 
 ### 1. Write Clean Code
-
+[Google’s R Style Guide](https://google.github.io/styleguide/Rguide.html)
 
 
 You can use the [editor on GitHub](https://github.com/yazhou2019/RStyleguide/edit/master/index.md) to maintain and preview the content for your website in Markdown files.

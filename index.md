@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+## R Style Guide
+
+### 1. Write Clean Code
+
+
 
 You can use the [editor on GitHub](https://github.com/yazhou2019/RStyleguide/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 

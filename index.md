@@ -1,7 +1,14 @@
 ## R Style Guide
 
 ### 1. Write Clean Code
-[Google’s R Style Guide](https://google.github.io/styleguide/Rguide.html)
+
+(1). [Google’s R Style Guide](https://google.github.io/styleguide/Rguide.html)
+
+(2). [Hadley Wickham’s style guide](http://adv-r.had.co.nz/Style.html)
+
+(3). [Some tutorial](https://www.earthdatascience.org/courses/earth-analytics/time-series-data/write-clean-code-with-r/)
+
+(4). Tips: Use nouns for variable names and verbs for function names.
 
 
 You can use the [editor on GitHub](https://github.com/yazhou2019/RStyleguide/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
@@ -24,6 +31,7 @@ Syntax highlighted code block
 
 1. Numbered
 2. List
+(1). [Google’s R Style Guide](https://google.github.io/styleguide/Rguide.html)
 
 **Bold** and _Italic_ and `Code` text
 

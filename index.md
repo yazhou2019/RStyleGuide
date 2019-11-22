@@ -9,9 +9,16 @@
 (3). [Some tutorial](https://www.earthdatascience.org/courses/earth-analytics/time-series-data/write-clean-code-with-r/)
 
 (4). Tips: 
-      Use nouns for variable names and verbs for function names.
-      It’s a mistake to focus on speed until you know it’ll be a problem. 
+```markdown
+- Use nouns for variable names and verbs for function names.
+- It’s a mistake to focus on speed until you know it’ll be a problem. 
 
+Sometimes you want bullet points:
+
+* Start a line with a star
+* Profit!
+
+```
 
 You can use the [editor on GitHub](https://github.com/yazhou2019/RStyleguide/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 

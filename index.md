@@ -1,4 +1,5 @@
 ## R Style Guide
+*  Philosophy of package development (Hadley Wickham): anything that can be automated, should be automated. Do as little as possible by hand. Do as much as possible with functions
 
 ### 1. Write Clean Code
 

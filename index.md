@@ -4,11 +4,14 @@
 
 (1). [Google’s R Style Guide](https://google.github.io/styleguide/Rguide.html)
 
-(2). [Hadley Wickham’s style guide](http://adv-r.had.co.nz/Style.html)
+(2). [Hadley Wickham’s style guide](http://adv-r.had.co.nz/Style.html). Tutorial from Hadley Wickham
+* Hadley Wickham. ''R packages''. O’Reilly Media. [Web Link](http://r-pkgs.had.co.nz/)
+* Hadley Wickham. ''Advanced R''. [Web Link](http://adv-r.had.co.nz/)
+* Garrett Grolemund and Hadley Wickham. ''R for Data Science'' [Web Link](http://r4ds.had.co.nz/)
 
 (3). [Some tutorial](https://www.earthdatascience.org/courses/earth-analytics/time-series-data/write-clean-code-with-r/)
 
-(4). Tips: 
+(5). Tips: 
 ```markdown
 - Use nouns for variable names and verbs for function names.
 - It’s a mistake to focus on speed until you know it’ll be a problem. 

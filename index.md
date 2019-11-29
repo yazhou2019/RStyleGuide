@@ -36,7 +36,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 #### Further improvements:
 ```markdown
-d
+# Tips
+Sometimes devtools:: does not work, we can just library(devtools) and use those functions
+# Documentation (help)
+devtools::document()
 ```
 ### Markdown
 

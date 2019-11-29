@@ -14,7 +14,7 @@
 
 (3). [Some simple tutorial](https://www.earthdatascience.org/courses/earth-analytics/time-series-data/write-clean-code-with-r/)
 
-(5). Tips: 
+(4). Tips: 
 ```markdown
 - Use nouns for variable names and verbs for function names.
 - It’s a mistake to focus on speed until you know it’ll be a problem. 
@@ -35,7 +35,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 (3). Rstudio: Build --> Install and Restart (Complete roughtly)
 
-(4). Further improvements:
+#### Further improvements:
 ```markdown
 # Documentation (help)
 1. write the file (before the definition of the function )
@@ -45,10 +45,10 @@ devtools::document()
 # Automated checking 
 devtools::check()
 ```
-(5)Tips:
-```markdown
+#### Tips:
 - Sometimes devtools:: does not work, we can just library(devtools) and use those functions
-```
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for

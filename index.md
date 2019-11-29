@@ -30,16 +30,16 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### 3. Quick R package
 (1). Rstudio: New project
 
-(2). Put the functions in .R/.
+(2). Put the functions in .R/
 
-(3). Rstudio: Build --> Install and Restart. (Complete roughtly)
+(3). Rstudio: Build --> Install and Restart (Complete roughtly)
 
 #### Further improvements:
 ```markdown
 # Tips
 Sometimes devtools:: does not work, we can just library(devtools) and use those functions
 # Documentation (help)
-1. Write the file
+1. write the file (before the definition of the function )
 2. type 
 devtools::document()
 3. use help("the functions") to check if it work

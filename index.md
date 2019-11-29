@@ -44,7 +44,7 @@ Sometimes devtools:: does not work, we can just library(devtools) and use those 
 2. type the code in Rstudio (project environment)
 devtools::document()
 3. use help("the functions") to check if it work
-# Automated checking
+# Automated checking (http://r-pkgs.had.co.nz/check.html#check)
 devtools::check()
 ```
 ### Markdown

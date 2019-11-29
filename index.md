@@ -39,7 +39,12 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 # Tips
 Sometimes devtools:: does not work, we can just library(devtools) and use those functions
 # Documentation (help)
+1. Write the file
+2. type 
 devtools::document()
+3. use help("the functions") to check if it work
+# Automated checking
+devtools::check()
 ```
 ### Markdown
 

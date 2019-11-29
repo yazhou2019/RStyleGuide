@@ -1,6 +1,7 @@
 ## R Style Guide
-*  Philosophy of package development (Hadley Wickham): anything that can be automated, should be automated. Do as little as possible by hand. Do as much as possible with functions
+*  Philosophy of package development (Hadley Wickham): anything that can be automated, should be automated. Do as little as possible by hand. Do as much as possible with functions. 
 
+*  R is, at heart, more a functional programming language than an object oriented programming language. 
 ### 1. Write Clean Code
 
 (1). [Google’s R Style Guide](https://google.github.io/styleguide/Rguide.html)
@@ -17,12 +18,10 @@
 - Use nouns for variable names and verbs for function names.
 - It’s a mistake to focus on speed until you know it’ll be a problem. 
 
-Sometimes you want bullet points:
-
-* Start a line with a star
-* Profit!
-
 ```
+### 2. Efficient Code 
+
+(1).
 
 You can use the [editor on GitHub](https://github.com/yazhou2019/RStyleguide/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 

@@ -21,7 +21,7 @@
 ```
 ### 2. Efficient Code 
 
-(1).
+(1).  While turning casual interactive tests into reproducible scripts requires a little more work up front, it pays off in four ways: Fewer bugs; Better code structure; Easier restarts;
 
 You can use the [editor on GitHub](https://github.com/yazhou2019/RStyleguide/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 

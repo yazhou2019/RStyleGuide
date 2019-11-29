@@ -42,7 +42,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 2. type the code in Rstudio (project environment)
 devtools::document()
 3. use help("the functions") to check if it work
-# Automated checking (http://r-pkgs.had.co.nz/check.html#check)
+# Automated checking 
 devtools::check()
 ```
 (5)Tips:

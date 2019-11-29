@@ -11,7 +11,7 @@
 * Hadley Wickham. ''Advanced R''. [Web Link](http://adv-r.had.co.nz/)
 * Garrett Grolemund and Hadley Wickham. ''R for Data Science'' [Web Link](http://r4ds.had.co.nz/)
 
-(3). [Some tutorial](https://www.earthdatascience.org/courses/earth-analytics/time-series-data/write-clean-code-with-r/)
+(3). [Some simple tutorial](https://www.earthdatascience.org/courses/earth-analytics/time-series-data/write-clean-code-with-r/)
 
 (5). Tips: 
 ```markdown

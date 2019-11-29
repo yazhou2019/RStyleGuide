@@ -40,7 +40,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Sometimes devtools:: does not work, we can just library(devtools) and use those functions
 # Documentation (help)
 1. write the file (before the definition of the function )
-2. type 
+2. type the code in Rstudio (project environment)
 devtools::document()
 3. use help("the functions") to check if it work
 # Automated checking

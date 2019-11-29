@@ -32,7 +32,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 (2). Put the functions in .R/.
 
-(3). Build：Install and Restart.
+(3). Rstudio: Build --> Install and Restart.
+
+(4). Further improvements
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for

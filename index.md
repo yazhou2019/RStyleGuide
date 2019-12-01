@@ -46,6 +46,7 @@ devtools::document()
 devtools::check()
 # Data
 devtools::use_data()
+# Namespace (to CRAN)
 ```
 #### Tips:
 - Sometimes devtools:: does not work, we can just library(devtools) and use those functions

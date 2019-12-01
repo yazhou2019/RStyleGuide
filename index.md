@@ -44,6 +44,8 @@ devtools::document()
 3. use help("the functions") to check if it work
 # Automated checking 
 devtools::check()
+# Data
+devtools::use_data()
 ```
 #### Tips:
 - Sometimes devtools:: does not work, we can just library(devtools) and use those functions

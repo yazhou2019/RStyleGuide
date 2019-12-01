@@ -29,7 +29,7 @@ You can use the [editor on GitHub](https://github.com/yazhou2019/RStyleguide/edi
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### 3. Quick R package
-(1). Rstudio: New project
+(1). Rstudio: New project --> New Directory --> R package
 
 (2). Put the functions in .R/
 

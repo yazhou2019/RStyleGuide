@@ -24,9 +24,6 @@
 
 (1).  While turning casual interactive tests into reproducible scripts requires a little more work up front, it pays off in four ways: Fewer bugs; Better code structure; Easier restarts; Robust code.
 
-You can use the [editor on GitHub](https://github.com/yazhou2019/RStyleguide/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### 3. Quick R package
 (1). Rstudio: New project --> New Directory --> R package
@@ -47,6 +44,7 @@ devtools::check()
 # Data
 devtools::use_data()
 # Namespace (to CRAN)
+package_name::function_name
 ```
 #### Tips:
 - Sometimes devtools:: does not work, we can just library(devtools) and use those functions

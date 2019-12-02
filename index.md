@@ -44,7 +44,7 @@ devtools::check()
 # Data
 devtools::use_data()
 # Namespace (to CRAN)
-package_name::function_name
+package_name::function_name or imports
 ```
 #### Tips:
 - Sometimes devtools:: does not work, we can just library(devtools) and use those functions

@@ -45,6 +45,8 @@ devtools::check()
 devtools::use_data()
 # Namespace (to CRAN)
 package_name::function_name or imports
+# Clean code (automatically)
+
 ```
 #### Tips:
 - Sometimes devtools:: does not work, we can just library(devtools) and use those functions

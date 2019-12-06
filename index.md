@@ -46,6 +46,7 @@ devtools::use_data()
 # Namespace (to CRAN)
 package_name::function_name or imports
 # Clean code (automatically)
+library(formatR)
 
 ```
 #### Tips:
